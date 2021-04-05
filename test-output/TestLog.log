@@ -1,0 +1,8 @@
+2021-04-05 11:05:50,714 INFO  Sample info message 
+2021-04-05 11:05:50,715 WARN  Sample warn message 
+2021-04-05 11:05:50,715 ERROR Sample error message 
+2021-04-05 11:05:50,715 FATAL Sample fatal message 
+2021-04-05 11:12:30,968 INFO  Sample info message 
+2021-04-05 11:12:30,968 WARN  Sample warn message 
+2021-04-05 11:12:30,968 ERROR Sample error message 
+2021-04-05 11:12:30,968 FATAL Sample fatal message 
